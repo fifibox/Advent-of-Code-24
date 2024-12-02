@@ -6,6 +6,7 @@ input = """7 6 4 2 1
 8 6 4 4 1
 1 3 6 7 9"""
 
+import copy
 total = 0
 
 def safecheck(list):
